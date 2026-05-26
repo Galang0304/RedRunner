@@ -1,45 +1,45 @@
 # Red Runner
 
-Red Runner - 2D Endless Runner Game (Unity)
+Red Runner adalah game endless runner 2D berbasis Unity.
 
-An awesome platformer game built with Unity Engine.
-
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
-| --------------- | -------- | ----------- |
+| Memulai | Unduh | Tangkapan Layar |
+| ------- | ------ | ---------------- |
 
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
 </p>
 
-[:camera: See Screenshots](#screenshots)
+## Deskripsi
 
-## Getting Started
+Proyek ini berisi source code game Red Runner yang bisa dibuka, dipelajari, dan dikembangkan lagi di Unity.
 
-Follow the below instructions to get started with Red Runner source code:
+## Memulai
 
-1. [Make sure you have all Requirements](#requirements)
-2. [Download Source Code](#download)
-3. Open Project in Unity and Enjoy!
+Ikuti langkah berikut untuk menjalankan proyek:
 
-## Requirements
+1. Pastikan semua kebutuhan proyek sudah tersedia.
+2. Unduh atau clone repository ini.
+3. Buka proyek di Unity dan jalankan scene game.
 
-Make sure you have the below requirements before starting:
+## Kebutuhan
 
-- [Unity Game Engine](https://unity3d.com) version **6000.2.6f2 (Unity 6)**
-- Basic Knowledge about Unity and C#
+Sebelum mulai, siapkan hal berikut:
 
-## Download
+- [Unity Game Engine](https://unity3d.com) versi **6000.2.6f2 (Unity 6)**
+- Pengetahuan dasar tentang Unity dan C#
 
-You can get access to Red Runner source code by using one of the following ways:
+## Unduh
 
-- [:sparkles: Download Source Code](https://github.com/Galang0304/RedRunner/archive/master.zip)
-- Clone the repository locally:
+Anda bisa mendapatkan source code Red Runner dengan cara berikut:
+
+- Unduh ZIP: [RedRunner archive](https://github.com/Galang0304/RedRunner/archive/master.zip)
+- Clone repository:
 
 ```bash
-git clone https://github.com/Galang0304/RedRunner.git
+git clone git@github.com:Galang0304/RedRunner.git
 ```
 
-## Screenshots
+## Tangkapan Layar
 
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
@@ -57,25 +57,24 @@ git clone https://github.com/Galang0304/RedRunner.git
   <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc3My5wbmc=/original/RAoMpO.png" />
 </p>
 
-## Credits
+## Fitur
 
-- Game Engine: [Unity](https://unity3d.com/)
-- Original Project: [Red Runner by Bayat Games](https://github.com/BayatGames/RedRunner)
-- Thanks to the game development community for their support
+- Gameplay endless runner 2D
+- Kontrol platformer yang ringan dan responsif
+- Kompatibel dengan Unity 6
+- Struktur proyek siap dikembangkan lebih lanjut
 
-## Features
+## Kredit
 
-- 2D Endless Runner Gameplay
-- Smooth platformer mechanics
-- Unity 6 compatible
-- Clean codebase
+- Engine: [Unity](https://unity3d.com/)
+- Referensi proyek asli: [BayatGames/RedRunner](https://github.com/BayatGames/RedRunner)
 
-## License
+## Lisensi
 
 MIT License
 
-## Author
+## Pengembang
 
-Developed by Galang
+Dikembangkan oleh Galang
 
 Repository: [github.com/Galang0304/RedRunner](https://github.com/Galang0304/RedRunner)
